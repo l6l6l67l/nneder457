@@ -1,0 +1,24 @@
+{
+  "name": "nneder457",
+  "version": "1.0.0",
+  "description": "apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/l6l6l67l/nneder457.git"
+  },
+  "dependencies": {
+    "wereider45yrt": "^1.0.0",
+    "nervana-tea": "^1.0.0",
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/l6l6l67l/nneder457/issues"
+  },
+  "homepage": "https://github.com/l6l6l67l/nneder457#readme"
+}
